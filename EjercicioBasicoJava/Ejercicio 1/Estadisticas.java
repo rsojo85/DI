@@ -1,5 +1,13 @@
 public interface Estadisticas {
-    double minimo();
-    double maximo();
-    double sumatorio();
+    static double minimo(double[] num) {
+        return 0;
+    }
+
+    static double maximo(double[] num) {
+        return 0;
+    }
+
+    static double sumatorio(double[] num) {
+        return 0;
+    }
 }
